@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Whatever the fuck the .DS_Store file is, get it in bin
+.DS_Store
+
 # C extensions
 *.so
 
